@@ -50,7 +50,7 @@ If you find our work useful, please consider citing:
 @article{,
   title={FAME: Feature Attribution via Multilevel Embeddings for Deepfake Model Attribution},
   author={Wasim Ahmad et al.},
-  journal={},
+  journal={Accepted at Expert Systems With Applications (ESWA)},
   year={2025},
-  publisher={}
+  publisher={Elsevier}
 }
