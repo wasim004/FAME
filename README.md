@@ -47,10 +47,14 @@ The codebase will include:
 If you find our work useful, please consider citing:
 
 ```bibtex
-@article{,
-  title={FAME: Feature Attribution via Multilevel Embeddings for Deepfake Model Attribution},
-  author={Wasim Ahmad et al.},
-  journal={Accepted at Expert Systems With Applications (ESWA)},
-  year={2025},
-  publisher={Elsevier}
+@article{AHMAD2025128571,
+  title = {FAME: A Lightweight Spatio-Temporal Network for Model Attribution of Face-Swap Deepfakes},
+  journal = {Expert Systems with Applications},
+  pages = {128571},
+  year = {2025},
+  issn = {0957-4174},
+  doi = {https://doi.org/10.1016/j.eswa.2025.128571},
+  url = {https://www.sciencedirect.com/science/article/pii/S0957417425021906},
+  author = {Wasim Ahmad and Yan-Tsung Peng and Yuan-Hao Chang},
+  keywords = {Face-swap Deepfakes, Deepfake Model Attribution, Attention Mechanism, Multimedia Forensics, Information Security}
 }
